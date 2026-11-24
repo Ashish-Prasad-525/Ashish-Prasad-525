@@ -1,67 +1,105 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Prasad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Data%20Analyst&descSize=20&descAlignY=58" width="100%" alt="Ashish Prasad header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14213D,100:00D4FF&height=220&section=header&text=ASHISH%20PRASAD&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20ENGINEERING%20%7C%20MACHINE%20LEARNING%20%7C%20GENAI&descSize=17&descAlignY=60" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%26+AI+Applications;Machine+Learning+%7C+GenAI+%7C+RAG;Python+Developer+%7C+Data+Analytics;Turning+Ideas+Into+Engineering+Projects" alt="Typing animation"/>
+
+<br/>
 
 <a href="https://github.com/Ashish-Prasad-525">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=AI+Engineer+%7C+GenAI+%26+RAG;ML+Engineer+%7C+Python+Developer;Data+Analyst+%7C+SQL+%26+Analytics;Final-Year+B.Tech+%7C+Open+to+Opportunities" alt="Typing animation"/>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<p>
 <a href="https://www.linkedin.com/in/ashish-prasad-54a665376/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:prasadashish525@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-00D4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Ashish-Prasad-525">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Ashish-Prasad-525&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ashish-Prasad-525&style=for-the-badge&color=6C63FF&label=VISITORS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a final-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, passionate about building practical AI applications, intelligent systems and data-driven solutions.
+# `whoami`
 
-- 🎓 B.Tech CSE (AI & ML) | ITM University, Gwalior | 2027
-- 💡 Interested in AI Engineering, Generative AI, Machine Learning and Data Analytics
-- 🛠️ Building AI applications with Python, NLP, LLMs and RAG
-- 📊 Exploring data analytics, SQL, automation and intelligent workflows
-- 🌱 Currently strengthening DSA, AI system design and production-oriented development
-- 💼 Open to entry-level opportunities and internships in AI, ML, GenAI and Python development
+</div>
+
+<img align="right" width="150" src="https://github.com/Ashish-Prasad-525.png" alt="Ashish Prasad"/>
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Ashish Prasad"
+        self.education = "B.Tech CSE - AI & ML"
+        self.university = "ITM University, Gwalior"
+        self.graduation = 2027
+        self.interests = [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Machine Learning",
+            "Data Analytics"
+        ]
+
+    def goal(self):
+        return "Build intelligent, practical AI systems"
+
+me = AIEngineer()
+```
+
+I'm a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning, focused on developing practical applications using Python, machine learning, NLP and Generative AI.
+
+- 🧠 Exploring intelligent systems, RAG pipelines and AI applications
+- ⚙️ Interested in applied ML, automation and backend development
+- 📊 Working on data-driven applications and analytics
+- 🌱 Currently strengthening DSA, SQL and AI engineering
+- 🎯 Open to AI/ML, GenAI, Python and Data roles
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+# `01` — Featured Engineering
+
+<div align="center">
+
+### Projects built to solve practical problems.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Document Intelligence
+<h3>01. 📄 AI Document Intelligence</h3>
 
-A RAG-based application for querying documents with AI-generated answers and contextual source retrieval.
+A document Q&A system powered by retrieval-augmented generation, enabling users to retrieve relevant information and interact with documents.
 
-**Tech:** Python · FastAPI · LangChain · FAISS · React
+**Core stack**
 
-[Explore Repository](https://github.com/Ashish-Prasad-525/Summer-Internship)
+`Python` `FastAPI` `LangChain` `FAISS` `React`
+
+<a href="https://github.com/Ashish-Prasad-525/Summer-Internship">↗ Explore Project</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌊 Urban Flood Early Warning System
+<h3>02. 🌊 FloodSense</h3>
 
-An ML-based flood prediction project integrating environmental data and predictive analytics.
+An urban flood prediction project combining machine learning and environmental data for flood-risk analysis.
 
-**Tech:** Python · ML · LSTM · Flask
+**Core stack**
 
-[Explore Repository](https://github.com/Ashish-Prasad-525/Urban_Flood_Early_Warning_System)
+`Python` `LSTM` `Flask` `ML` `Data Analysis`
+
+<a href="https://github.com/Ashish-Prasad-525/Urban_Flood_Early_Warning_System">↗ Explore Project</a>
 
 </td>
 </tr>
@@ -69,25 +107,29 @@ An ML-based flood prediction project integrating environmental data and predicti
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Sentiment & Emotion Analyzer
+<h3>03. 💬 Sentiment & Emotion Analyzer</h3>
 
-An NLP application for sentiment and emotion analysis with interactive input and visual insights.
+An NLP application combining sentiment and emotion analysis with interactive input and visualization.
 
-**Tech:** Python · Transformers · NLP · VADER
+**Core stack**
 
-[Explore Repository](https://github.com/Ashish-Prasad-525/Sentiment_Analyzer)
+`Python` `Transformers` `VADER` `NLP`
+
+<a href="https://github.com/Ashish-Prasad-525/Sentiment_Analyzer">↗ Explore Project</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Industrial Battery Analytics
+<h3>04. ⚡ Industrial Battery Analytics</h3>
 
-PLC-integrated monitoring concept for battery analytics, status monitoring and low-level alerts.
+An industrial monitoring solution integrating PLC-based battery data with centralized monitoring and alerts.
 
-**Tech:** PLC · Industrial Analytics · Dashboard Integration
+**Core stack**
 
-<sub>Industrial project details are intentionally limited.</sub>
+`PLC` `Dashboard` `Automation` `Monitoring`
+
+<sub>Details restricted to non-confidential project information.</sub>
 
 </td>
 </tr>
@@ -95,119 +137,125 @@ PLC-integrated monitoring concept for battery analytics, status monitoring and l
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# `02` — Technology Arsenal
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,sql" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
-### AI / ML / Data Science
+### AI • Machine Learning • Data
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" alt="Machine Learning tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-### Backend & Web Development
+### Backend • Application Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" alt="Backend and web technologies"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" />
 
-### Database & Tools
+### Databases • Tools • Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,docker" alt="Database and tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# `03` — GitHub Insights
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish-Prasad-525&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashish-Prasad-525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=E6EDF3"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Prasad-525&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Prasad-525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3"/>
 
 </div>
-
----
-
-### 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ashish-Prasad-525&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Ashish-Prasad-525&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF"/>
 
 </div>
 
 ---
 
-### 📈 Contribution Activity
+# `04` — Contribution Timeline
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Prasad-525&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Prasad-525&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+# `05` — Commit Evolution
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-Prasad-525/Ashish-Prasad-525/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-Prasad-525/Ashish-Prasad-525/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ashish-Prasad-525/Ashish-Prasad-525/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Ashish-Prasad-525/Ashish-Prasad-525/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
+# `06` — Currently Building & Learning
 
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and agentic workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Exploring
+
+- RAG evaluation and retrieval optimization
+- Agentic AI & LangGraph
+- LLM applications
+- ML model optimization
 - SQL and Data Analytics
-- Machine Learning model evaluation
-- Data Structures and Algorithms using Python
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔭 Project Roadmap
+
+- Natural Language to SQL Analytics Agent
+- Production-oriented RAG systems
+- AI application deployment
+- Advanced ML projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔮 Upcoming Project
-
-### 🤖 Natural Language to SQL Analytics Agent
-
-An AI-powered analytics assistant that translates natural-language questions into SQL queries, executes them against structured data and generates insights.
-
-**Planned stack:** Python · SQL · LangGraph · LLMs · Data Visualization
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building projects, collaborating and exploring opportunities in AI and software engineering.
+# `07` — Let's Connect
 
 <div align="center">
+
+### Interested in AI, engineering, collaboration or opportunities?
+
+Let's connect and build something meaningful.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/ashish-prasad-54a665376/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prasadashish525@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ashish-Prasad-525">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**Code. Learn. Build. Iterate.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:14213D,100:0D1117&height=120&section=footer"/>
 
 </div>
